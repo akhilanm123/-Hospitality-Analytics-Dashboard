@@ -28,6 +28,10 @@ This Power BI dashboard provides actionable insights into hotel performance, boo
 - Trend Analysis, Category-wise Revenue, and Platform Performance visualizations.
 ## Dashboard Interaction
 -<a href="https://github.com/akhilanm123/Hospitality-Analytics-Dashboard/blob/main/HD.pbix">Hospitality-Analytics-Dashboard</a>
+## Dashboard
+![image](https://github.com/user-attachments/assets/f679d8ea-4029-468e-8760-08d9a8321aae)
+
+
 ## Key Performance Indicators (KPIs) Tracked
 - Revenue – Total revenue generated across properties.
 - RevPAR (Revenue per Available Room) – Measures revenue efficiency.
@@ -59,3 +63,16 @@ This Power BI dashboard provides actionable insights into hotel performance, boo
 - The average cancellation rate was 24.84%, leading to significant revenue loss.
 - No-show rates were particularly high on online platforms, reducing overall realization %.
 - Some booking platforms had 30%+ cancellation rates, severely affecting projected revenue.
+ ### Tooltip Usage in KPI Visualizations
+ Tooltips provide additional insights into key performance indicators (KPIs) by displaying specific data points when hovered over. This enhances data interpretation and enables better business strategy and performance evaluation. There are 6 tooltips used in the dashboard, all the details has be documented. Please click the file to know more about it -<a href="https://github.com/akhilanm123/-Hospitality-Analytics-Dashboard/blob/main/Tooltip%20Usage%20in%20KPI%20Visualizations.pdf">Tooltip </a>
+
+## Final Conclusion 
+This project delivers a comprehensive KPI analysis framework to track and optimize key business metrics. By leveraging data visualization and revenue tracking, it provides actionable insights for strategic decision-making.
+#### Key Outcomes:
+- Revenue & Market Segmentation: Tracks weekly revenue for Business & Luxury segments, aiding pricing and forecasting.
+- Occupancy & Performance: Identifies weekday vs. weekend trends for better resource planning.
+- Pricing Optimization: ADR and RevPAR insights support competitive pricing strategies.
+- Enhanced Data Interpretation: Interactive tooltips improve clarity and usability.
+-  Strategic Business Intelligence: Enables real-time KPI tracking for data-driven decisions.
+
+This project transforms raw data into business intelligence, offering a scalable, data-driven approach for revenue management and operational efficiency.
