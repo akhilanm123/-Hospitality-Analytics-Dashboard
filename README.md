@@ -26,3 +26,23 @@ This Power BI dashboard provides actionable insights into hotel performance, boo
 #### 3.  Data Visualization:
 - Interactive filters for City, Room Type, and Date Ranges.
 - Trend Analysis, Category-wise Revenue, and Platform Performance visualizations.
+## Dashboard Interaction
+-<a href="https://github.com/akhilanm123/Hospitality-Analytics-Dashboard/blob/main/HD.pbix">Hospitality-Analytics-Dashboard</a>
+## Key Performance Indicators (KPIs) Tracked
+- Revenue – Total revenue generated across properties.
+- RevPAR (Revenue per Available Room) – Measures revenue efficiency.
+- ADR (Average Daily Rate) – Average revenue per booking.
+- Occupancy % – Measures room utilization.
+- Realization % – Identifies booking completion rate after cancellations & no-shows.
+- Platform-wise Performance – Analyzes efficiency of different booking sources.
+-  City-Wise Performance – Compares hotel performance across different locations
+  ## Key Insights & Business Impact
+ #### 1. Booking Platform Performance & Realization %
+- ######  Direct Offline Bookings had the highest Realization % (~70.09%), meaning fewer cancellations and no-shows.
+- ######  Tripster had a lower realization rate (~69.80%), indicating a higher rate of cancellations or no-shows.
+- ######  MakeYourTrip and Direct Online platforms showed slightly lower efficiency compared to offline bookings.
+- ######  Cancellations and no-show rates significantly impact revenue, with some platforms experiencing up to 25% cancellation rates.
+#### Business Impact:
+- High realization % means fewer lost bookings and stable revenue.
+- Platforms with low realization % indicate a need for better engagement and stricter cancellation policies.
+  
