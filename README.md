@@ -22,7 +22,7 @@ This Power BI dashboard provides actionable insights into hotel performance, boo
 - RevPAR = DIVIDE([Revenue],[Total Capacity])
 - ADR = DIVIDE( [Revenue], [Total Bookings], 0)
 - Realization % = 1 - ([Cancellation %] + [No Show rate %])
-###### A total of 23  DAX formulas were used in this project. For a full list of all formulas, check the Complete DAX Formulas Document 
+###### A total of 23  DAX formulas were used in this project. For a full list of all formulas, check the Complete DAX Formulas Document - <a href="https://github.com/akhilanm123/-Hospitality-Analytics-Dashboard/blob/main/DAX%20Formulas.xlsx">DAX Formulas</a>
 #### 3.  Data Visualization:
 - Interactive filters for City, Room Type, and Date Ranges.
 - Trend Analysis, Category-wise Revenue, and Platform Performance visualizations.
