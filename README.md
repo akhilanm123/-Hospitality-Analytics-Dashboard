@@ -7,6 +7,12 @@ This Power BI dashboard provides actionable insights into hotel performance, boo
 -  Platform-wise booking efficiency & Realization %
 -  Luxury vs. Business hotel performance
 -  Weekday vs. Weekend stay patterns
+## Dataset Used
+- <a href="https://github.com/akhilanm123/-Hospitality-Analytics-Dashboard/blob/main/dim_date.csv">Dates</a>
+- <a href="https://github.com/akhilanm123/-Hospitality-Analytics-Dashboard/blob/main/dim_hotels.csv">Hotels</a>
+- <a href="https://github.com/akhilanm123/-Hospitality-Analytics-Dashboard/blob/main/dim_rooms.csv">Rooms</a>
+- <a href="https://github.com/akhilanm123/-Hospitality-Analytics-Dashboard/blob/main/fact_aggregated_bookings.csv">fact_aggregate_bookings</a>
+- <a href="https://github.com/akhilanm123/-Hospitality-Analytics-Dashboard/blob/main/fact_bookings.csv">fact_bookings</a>
 ## Technical Approach
 #### 1. Data Processing
 - Cleaned and transformed data using Power Query.
